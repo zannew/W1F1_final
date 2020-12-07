@@ -9,4 +9,4 @@
 ## 기술/구조
 
 * 웹표준
- * `HTML5``CSS3``JavaScript``JQuery`
+ * `HTML5` `CSS3` `JavaScript` `JQuery`
