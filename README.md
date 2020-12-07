@@ -8,5 +8,18 @@
 
 ## 기술/구조
 
-* 웹표준
+* 웹 표준
   * `HTML5` `CSS3` `JavaScript` `JQuery`
+* DBMS
+  * `MySQL`
+* Framework
+  * `Spring` `Spring Boot`
+* Model-Controller-View
+  * MVC 디자인 패턴을 적용한 모델2 구조
+* OpenAPI
+  * 
+  
+  
+  
+  
+  
