@@ -1,5 +1,5 @@
 ![w1f1로고](https://user-images.githubusercontent.com/63032810/101615752-d5e13400-3a51-11eb-891b-bc9861aaae62.PNG)
-<img src="https://user-images.githubusercontent.com/63032810/101615752-d5e13400-3a51-11eb-891b-bc9861aaae62.PNG" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/63032810/101615752-d5e13400-3a51-11eb-891b-bc9861aaae62.PNG" width="200" height="150">
 
 
 &#127752; __About W1F1 project__
