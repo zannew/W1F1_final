@@ -12,19 +12,19 @@
 
 ### 기술/구조
 
-* 웹 표준
+* _웹 표준_
   * `HTML5` `CSS3` `JavaScript` `JQuery` `BootStrap`
-* DBMS
+* _DBMS_
   * `MySQL` `AWS RDS`
-* Server
+* _Server_
   * `Apache Tomcat8` `AWS EC2` `Socket.io`
-* Framework
+* _Framework_
   * `Spring` `Spring Boot` `MyBatis`
-* MVC model 2
+* _MVC model 2_
   * MVC 디자인 패턴을 적용한 모델2 구조
-* OpenAPI
+* _OpenAPI_
   * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
-* Module
+* _Module_
   * `Socket.io` 
   
   ### 주요 기능
