@@ -1,3 +1,5 @@
+![title](https://drive.google.com/file/d/1YRVQDHhVOClYv3-ATKDiU4bJX_BTY1Ja/view?usp=sharing)
+
 
 &#127752; __About W1F1 project__
 
@@ -6,7 +8,7 @@
   * **W1F1**은 불필요한 과잉구매를 방지하고 합리적인 소비를 돕고자 진행된 프로젝트입니다.
 <br><br>
 
-## 기술/구조
+### 기술/구조
 
 * 웹 표준
   * `HTML5` `CSS3` `JavaScript` `JQuery` `BootStrap`
@@ -20,8 +22,10 @@
   * MVC 디자인 패턴을 적용한 모델2 구조
 * OpenAPI
   * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
- * Module
+* Module
   * `Socket.io` 
   
-  ## 
+  ### 주요 기능
+  
+  * 
   
