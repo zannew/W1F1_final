@@ -14,7 +14,13 @@
 
   * 프로젝트 기간 : 2020/08/03 ~ 2020/09/14
   * 프로젝트 팀명 : 1Ps(원피스)
-  * 팀원 : [장윤원](https://github.com/zannew) [김승연](https://github.com/nullsector12)[남영준](https://github.com/YoungJoonNam)[박혜미](https://github.com/phm3241)[송가람](https://github.com/NikkieS)[정신우](https://github.com/s1nwoo)
+  * 팀원 
+     [장윤원](https://github.com/zannew) 
+     [김승연](https://github.com/nullsector12) 
+     [남영준](https://github.com/YoungJoonNam)
+     [박혜미](https://github.com/phm3241) 
+     [송가람](https://github.com/NikkieS)
+     [정신우](https://github.com/s1nwoo)
 
 <br><br>
 ### 기술/구조
@@ -47,10 +53,18 @@
   * 공동구매글 상태라벨(판매중/모집중/판매종료 등)
   * 판매처 위치를 확인하고 현위치와 경로를 검색해볼 수 있는 지도 서비스
   * 거래 확인을 위한 QR코드 체크
-<br><br>  
+<br><br> 
+
+
 ### Goals
 
   * RESTful API서비스로 MSA구조로 구현하는데 목표를 두고 개발하였습니다.
   * Single-Page Application으로 구현하면서 데이터 송수신에 더 집중하고 간편한 사용으로 사용자 친화적인 어플리케이션으로 구현하고자 했습니다.
   
 <br><br>
+
+### 프로젝트 PPT
+
+[여기]: (https://drive.google.com/file/d/1pnEI7jZiraI8AVrIT3Ag4OIGzJQ3VP1u/view?usp=sharing)
+
+프로젝트 PPT를 보시려면 [여기]를 클릭하세요.
