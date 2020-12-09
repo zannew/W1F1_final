@@ -102,6 +102,6 @@
 ---
 [&#127821;]: https://drive.google.com/file/d/1sS6Zpyzz3InycFsiSnQuTNiRrWk3PDHM/view?usp=sharing
 
-시연 영상을 보시려면  클릭하세요.[&#127821;]
+시연 영상을 보시려면 파인애플을 클릭하세요.[&#127821;]
 
 <br><br>
