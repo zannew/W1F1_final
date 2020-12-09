@@ -72,13 +72,13 @@
 
 ### 인트로 영상
 
-[&#128019;]: https://drive.google.com/file/d/1eDWgJl35ToCkLxzEIbtKAqpMjCdmoGFM/view?usp=sharing
+[&#127936;]: https://drive.google.com/file/d/1eDWgJl35ToCkLxzEIbtKAqpMjCdmoGFM/view?usp=sharing
 
-인트로 영상을 보시려면 를 클릭하세요.[&#128019;]
+인트로 영상을 보시려면 농구공을 클릭하세요.[&#127936;]
 
 
 ### 시연 영상
 
-[&#128053;]: https://drive.google.com/file/d/1sS6Zpyzz3InycFsiSnQuTNiRrWk3PDHM/view?usp=sharing
+[&#127821;]: https://drive.google.com/file/d/1sS6Zpyzz3InycFsiSnQuTNiRrWk3PDHM/view?usp=sharing
 
-시연 영상을 보시려면 원숭이를 클릭하세요.[&#128053;]
+시연 영상을 보시려면  클릭하세요.[&#127821;]
