@@ -23,23 +23,41 @@
      [정신우](https://github.com/s1nwoo)
 
 <br><br>
-### 기술/구조
+### 기술 · 구조 · 화면
 ---
   * _웹 표준_
+    
     * `HTML5` `CSS3` `JavaScript` `JQuery` `BootStrap`
-  * _DBMS_
-    * `MySQL` `AWS RDS`
-  * _Server_
-    * `Apache Tomcat8` `AWS EC2` `Socket.io`
-  * _Framework_
-    * `Spring` `Spring Boot` `MyBatis`
-  * _MVC model 2_
-    * MVC 디자인 패턴을 적용한 모델2 구조
-  * _OpenAPI_
-    * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
-  * _Module_
-    * `Socket.io` 
   
+  * _DBMS_
+    
+    * `MySQL` `AWS RDS`
+  
+  * _Server_
+    
+    * `Apache Tomcat8` `AWS EC2` `Socket.io`
+  
+  * _Framework_
+    
+    * `Spring` `Spring Boot` `MyBatis`
+  
+  * _MVC model 2_
+    
+    * MVC 디자인 패턴을 적용한 모델2 구조
+  
+  * _REST API_
+    
+    * `REST`기반의 MSA(Micro Service Architecture) 스타일 지향
+  
+  * _Open API_
+    
+    * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
+  
+  * _Module_
+    
+    * `Socket.io` 
+    
+  * _Single-Page Application_
 <br><br>
 
 ### 주요 기능
