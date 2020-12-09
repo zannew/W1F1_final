@@ -72,9 +72,9 @@
 
 ### 인트로 영상
 
-[여기]: https://drive.google.com/file/d/1eDWgJl35ToCkLxzEIbtKAqpMjCdmoGFM/view?usp=sharing
+[&#128019;]: https://drive.google.com/file/d/1eDWgJl35ToCkLxzEIbtKAqpMjCdmoGFM/view?usp=sharing
 
-인트로 영상을 보시려면 [여기]를 클릭하세요.
+인트로 영상을 보시려면 [&#128019;]를 클릭하세요.
 
 
 ### 시연 영상
