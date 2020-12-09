@@ -11,33 +11,33 @@
 <br><br>
 
 ### 프로젝트 정보
----
+
   * 프로젝트 기간 : 2020/08/03 ~ 2020/09/14
   * 프로젝트 팀명 : 1Ps(원피스)
   * 팀원 : [장윤원](https://github.com/zannew) [김승연](https://github.com/nullsector12)[남영준](https://github.com/YoungJoonNam)[박혜미](https://github.com/phm3241)[송가람](https://github.com/NikkieS)[정신우](https://github.com/s1nwoo)
 
 <br><br>
 ### 기술/구조
----
-* _웹 표준_
-  * `HTML5` `CSS3` `JavaScript` `JQuery` `BootStrap`
-* _DBMS_
-  * `MySQL` `AWS RDS`
-* _Server_
-  * `Apache Tomcat8` `AWS EC2` `Socket.io`
-* _Framework_
-  * `Spring` `Spring Boot` `MyBatis`
-* _MVC model 2_
-  * MVC 디자인 패턴을 적용한 모델2 구조
-* _OpenAPI_
-  * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
-* _Module_
-  * `Socket.io` 
+
+  * _웹 표준_
+    * `HTML5` `CSS3` `JavaScript` `JQuery` `BootStrap`
+  * _DBMS_
+    * `MySQL` `AWS RDS`
+  * _Server_
+    * `Apache Tomcat8` `AWS EC2` `Socket.io`
+  * _Framework_
+    * `Spring` `Spring Boot` `MyBatis`
+  * _MVC model 2_
+    * MVC 디자인 패턴을 적용한 모델2 구조
+  * _OpenAPI_
+    * `Kakao Login api` `Kakao Pay API` `Kakao Map API`
+  * _Module_
+    * `Socket.io` 
   
 <br><br>
 
 ### 주요 기능
----  
+
   * 카카오 로그인 api를 사용하여 회원가입과 로그인 과정을 최소화
   * 계정 구분 없이 전회원 구매자와 판매자의 모든 기능 사용
   * 금액 결제 후 공동구매 추천게시글로 등록 및 일정 기간 게시
@@ -49,7 +49,7 @@
   * 거래 확인을 위한 QR코드 체크
 <br><br>  
 ### Goals
----
+
   * RESTful API서비스로 MSA구조로 구현하는데 목표를 두고 개발하였습니다.
   * Single-Page Application으로 구현하면서 데이터 송수신에 더 집중하고 간편한 사용으로 사용자 친화적인 어플리케이션으로 구현하고자 했습니다.
   
