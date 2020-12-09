@@ -69,16 +69,18 @@
 
 프로젝트 PPT를 보시려면 강아지를 클릭하세요.[	&#128054;]
 
-
+<br><br>
 ### 인트로 영상
 
 [&#127936;]: https://drive.google.com/file/d/1eDWgJl35ToCkLxzEIbtKAqpMjCdmoGFM/view?usp=sharing
 
 인트로 영상을 보시려면 농구공을 클릭하세요.[&#127936;]
 
-
+<br><br>
 ### 시연 영상
 
 [&#127821;]: https://drive.google.com/file/d/1sS6Zpyzz3InycFsiSnQuTNiRrWk3PDHM/view?usp=sharing
 
 시연 영상을 보시려면  클릭하세요.[&#127821;]
+
+<br><br>
