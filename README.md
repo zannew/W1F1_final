@@ -1,10 +1,9 @@
-![w1f1로고](https://user-images.githubusercontent.com/63032810/101615752-d5e13400-3a51-11eb-891b-bc9861aaae62.PNG)
-<img src="https://user-images.githubusercontent.com/63032810/101615752-d5e13400-3a51-11eb-891b-bc9861aaae62.PNG" width="200" height="150">
+
 ![w1f1로고](https://user-images.githubusercontent.com/63032810/101616526-ce6e5a80-3a52-11eb-88b9-1d4120ba2b27.PNG)
 
 
 
-&#127752; __About W1F1 project__
+## About W1F1 project
 
   * **W1F1**은 1인가구가 증가하고 있는 사회적 흐름에 맞추어 개개인에게 편리한 서비스를 제공하고자 만든 프로젝트입니다. 
   * **W1F1**의 주요 타겟은 자취를 하다보면 장을 보면서 생필품과 식재료 등 구매량에 부담스러움을 느끼는 사용자이지만, (사용자 위치 기준)우리동네에서 공동으로 구매를 원하는 사람이라면 누구나 사용 가능합니다.
