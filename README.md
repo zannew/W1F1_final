@@ -14,7 +14,7 @@
 
   * 프로젝트 기간 : 2020/08/03 ~ 2020/09/14
   * 프로젝트 팀명 : 1Ps(원피스)
-  * 팀원 
+  * 팀원 :
      [장윤원](https://github.com/zannew) 
      [김승연](https://github.com/nullsector12) 
      [남영준](https://github.com/YoungJoonNam)
@@ -65,6 +65,6 @@
 
 ### 프로젝트 PPT
 
-[여기]: (https://drive.google.com/file/d/1pnEI7jZiraI8AVrIT3Ag4OIGzJQ3VP1u/view?usp=sharing)
+[여기]: https://drive.google.com/file/d/1pnEI7jZiraI8AVrIT3Ag4OIGzJQ3VP1u/view?usp=sharing
 
 프로젝트 PPT를 보시려면 [여기]를 클릭하세요.
