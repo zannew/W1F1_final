@@ -100,7 +100,7 @@
 <br><br>
 ### 시연 영상
 ---
-[&#127821;]: https://drive.google.com/file/d/1sS6Zpyzz3InycFsiSnQuTNiRrWk3PDHM/view?usp=sharing
+[&#127821;]: https://drive.google.com/file/d/1Ikk78YjHcxs7xUFhIlDyxy3Gb8SPhzvI/view?usp=sharing
 
 시연 영상을 보시려면 파인애플을 클릭하세요.[&#127821;]
 
